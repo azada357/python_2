@@ -7,4 +7,4 @@ print(thisList)
 thisList = ["apple", "banana", "cherry", "waterelon", "pear", "orange"]
 
 del thisList[2]
-print(thisList)W
+print(thisList)
